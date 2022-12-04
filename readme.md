@@ -8,11 +8,11 @@
 
 ## Descripción
 
-Blogger es una empresa que ofrece una herramienta para la edicion y mantenimiento de blogs. Ofrece la herramienta de forma gratuita.
+Clipboard es una aplicacion que te permite organizar cualquier documento que copies en tu dispositivo en el cortapapeles.
 
 ## ¿Qué he aprendido en este proyecto?
 
-Este proyecto fue uno de los mas dificiles de lograr debido al planteamiento del menu, aprendi como realizar submenus utilizando JavaScript y flex y position para la posicion y el despliegue de el mismo.
+Este proyecto aprendi a reutilizar clases aplicando BEM, ademas de usar por primera vez el iconos en HTML
 
 ## Tecnologías
 
@@ -20,7 +20,6 @@ Este proyecto fue uno de los mas dificiles de lograr debido al planteamiento del
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
 ## Vista previa del proyecto
 
