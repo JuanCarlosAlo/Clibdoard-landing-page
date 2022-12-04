@@ -1,6 +1,6 @@
 # Clipboard
 
-![Imagen del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/awqnouxukwefdkaqt5iq.jpg?raw=true)
+![Imagen del proyecto](https://github.com/JuanCarlosAlo/Clibdoard-landing-page/blob/main/images/xiydlw7ggmnfnldlflit.jpg?raw=true)
 
 ## Ejemplo en vivo
 
@@ -28,11 +28,11 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Ordenador
 
-![Captura del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/awqnouxukwefdkaqt5iq.jpg?raw=true)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Clibdoard-landing-page/blob/main/images/xiydlw7ggmnfnldlflit.jpg?raw=true)
 
 ## Movil
 
-![Captura del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/th5eozdywkv9090e7nks.jpg?raw=true)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Clibdoard-landing-page/blob/main/images/voykxa1c0o8esyknz1jf.jpg?raw=true)
 
 ## Autor
 
