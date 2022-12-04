@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [Live Demo](https://juancarlosalo.github.io/Blogger/)
+- [Live Demo](https://juancarlosalo.github.io/Clibdoard-landing-page/)
 
 ## Descripción
 
